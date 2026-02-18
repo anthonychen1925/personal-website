@@ -1,0 +1,37 @@
+Anthony Chen
+Pleasanton CA, 94566
+anc096@ucsd.edu
+925-293-2923
+
+Education
+University of California, San Diego | GPA: 3.98 | Expected Graduation: Jun 2028
+Majors: Bioinformatics and Biochemistry
+Minor: Computer Science
+
+Relevant Courses: Object-Oriented Programming in Java, Basic Data Structures and Object-Oriented Design, Linear Algebra, Discrete Mathematics, Calculus and Analytic Geometry, Mathematics for Algorithms and Systems, Probability and Statistics for Bioinformatics, Organic Chemistry I and II, Plant Biology Lab, General Chemistry Lab, Data Analysis and Design for Biologists, Biochemical Structure and Function, Genetics
+
+Work / Lab Experience
+Dr. Ruben Abagyan Lab — Undergraduate Researcher (Dec 2025 - Present)
+- Learning Linux and the Protein Data Bank to extract data for specific biomedical targets and discover new drug leads; emphasis on multi-target pharmacology profiling.
+
+UCSD Department of Chemistry and Biochemistry — Organic Chemistry Tutor (Oct 2025 - Present)
+- Scheduling one-on-one $15/hour tutoring sessions for organic chemistry.
+
+General Chemistry Lab
+- Synthesized an Iron (III) Oxalate compound using oxalic acid to create Fe(NH4)2(SO4)2, oxidized with hydrogen peroxide to create an Fe (III)-oxalate compound, crystallized, vacuum filtered, and collected.
+- Performed gravimetric analysis to determine molarity of aluminum in an unknown solution using 8-hydroxyquinoline to precipitate, vacuum filtered and massed.
+- Performed acid-base titration by standardizing 0.1 M NaOH with KHP, titrating an unknown acid while collecting data with a pH probe and analyzing in Excel.
+
+Plant Biology Lab
+- Collected soil samples from local Lemonade Berry and California Sagebrush plants to extract and compare information on their soil conditions and soil microbiomes through statistical t-tests and chi-square analyses.
+- Compared differences in carbon source metabolization between the soil microbiomes of both plants through microbial assays.
+- Compared differences in microbial populations through microbial plating, PCR, gel electrophoresis, microbial assays, and Chi-square analysis.
+
+Projects / Activities
+Cerebrospinal Fluid Single-Cell RNA Sequencing ML Disease Classifier
+- Developed a classifier with a team in UCSD's undergraduate 2025 bioinformatics hackathon by web scraping 1000+ single-cell RNA sequencing cerebrospinal fluid data from GEO datasets, merging into an AnnData matrix, visualizing with UMAP (Scanpy), and training a scikit-learn random forest classifier achieving ~70% accuracy.
+- Utilized PCA for dimensionality reduction and cluster visualization.
+
+Technical Skills
+Computational: Java, Python, Linux, R, MATLAB, Excel, MS Word
+Lab Techniques: Distillation, Charge/Size Exclusion Chromatography, Acid-base titration, Gravimetric analysis, DNA extraction, PCR, Gel electrophoresis, Microbial plating, Bacterial DNA modification

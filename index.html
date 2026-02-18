@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Anthony Chen</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <header class="site-header">
+    <nav class="nav">
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="resume.html">Resume</a></li>
+        <li><a href="https://github.com/anthonychen1925" target="_blank" rel="noopener">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/anthony-chen-056492399" target="_blank" rel="noopener">LinkedIn</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-content centered">
+        <div class="hero-row">
+          <img class="profile-pic" src="assets/images/profile.jpg" alt="Anthony Chen" />
+          <div class="hero-text">
+            <h1>Anthony Chen</h1>
+            <p class="tagline">Bioinformatics & Biochemistry student at UC San Diego • CS minor • Expected Graduation: Jun 2028</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="section about">
+      <h2>About</h2>
+      <p>
+        I'm a bioinformatics and biochemistry undergraduate at UC San Diego (GPA: 3.98) with a minor in Computer Science. I work at Dr. Ruben Abagyan's lab on computational approaches to identify biomedical targets, and I enjoy applying machine learning and data analysis to biological datasets. My coursework includes algorithms, data structures, linear algebra, probability & statistics for bioinformatics, and data analysis techniques.
+      </p>
+    </section>
+
+    <section id="projects" class="section projects">
+      <h2>Projects</h2>
+      <div class="projects-grid">
+        <article class="card">
+          <h3>Cerebrospinal Fluid Single-Cell RNA Sequencing ML Disease Classifier</h3>
+          <p>Developed a disease classifier using 1000+ single-cell RNA-seq cerebrospinal fluid datasets (GEO). Processed data with AnnData/Scanpy, used UMAP for visualization and PCA for dimensionality reduction, and trained a scikit-learn Random Forest model achieving ~70% accuracy.</p>
+          <div class="card-links">
+            <a href="https://github.com/anthonychen1925/CSF-Classifier" target="_blank" rel="noopener">Code</a>
+            · <a href="https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F15B2C5kGLak0XuRaB1VRYIxbtVcA9XkezSbgIcmCy_ng%2Fedit%3Fusp%3Dsharing%26usp%3Dembed_facebook&urlhash=xXgB&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BHPJOuyBOQwuJLhZbf4NMGA%3D%3D" target="_blank" rel="noopener">Slideshow</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section id="research" class="section projects">
+      <h2>Research</h2>
+      <div class="projects-grid">
+        <article class="card">
+          <h3>Dr. Ruben Abagyan Lab — Undergraduate Researcher</h3>
+          <p><strong>San Diego, CA — Dec 2025 - Present</strong></p>
+          <p>Perform large-scale in silico screening of billions of compounds for binders to molecular targets and conduct structure-based lead discovery and optimization to identify covalent and non‑covalent inhibitors with designed multi‑target profiles across therapeutic areas (oncology, neurodegenerative, psychiatric, autoimmune, and infectious diseases). I map molecular targets by docking to Pocketome and develop machine‑learning models that predict pharmacological outcomes, multi‑target activity, and potential adverse effects of drugs and environmental chemicals.</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Contact section removed per user request -->
+  </main>
+
+  <footer class="site-footer">
+    <div>© <span id="year"></span> Anthony Chen</div>
+    <div class="social">• <a href="https://github.com/anthonychen1925" target="_blank" rel="noopener">GitHub</a> • <a href="https://www.linkedin.com/in/anthony-chen-056492399" target="_blank" rel="noopener">LinkedIn</a></div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
